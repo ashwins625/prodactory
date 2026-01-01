@@ -1,0 +1,22 @@
+# Preview files - not for deployment
+hero-animation-preview*.html
+*preview*.html
+preview/
+
+# Documentation (keep local only)
+docs/
+
+# Reference images
+*.jpeg
+*.webp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
